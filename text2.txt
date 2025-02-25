@@ -1,1 +1,1 @@
-welcome to AWS account
+New content for test2.txt
